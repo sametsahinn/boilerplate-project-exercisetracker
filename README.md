@@ -1,4 +1,4 @@
-<br clear="both">
+###
 
 <h1 align="left">Exercise Tracker</h1>
 
@@ -7,10 +7,6 @@
 <br clear="both">
 
 <p align="left">This is the boilerplate for the Exercise Tracker project. https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker</p>
-
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
